@@ -37,5 +37,6 @@
         <module>lang-simple</module>
         <module>lang-bukkit</module>
         <module>lang-bungee</module>
+        <module>lang-velocity</module>
     </modules>
 </project>
